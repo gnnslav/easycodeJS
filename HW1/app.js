@@ -13,8 +13,6 @@ string = `${string[0].toUpperCase()}${string.slice(1, string.length - 1)}${strin
 
 console.log(string);
 
-//Найти положение слова 'string' в строке
-
 string = 'some test string';
 
 console.log(string.indexOf('string'));
